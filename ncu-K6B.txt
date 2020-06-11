@@ -1,0 +1,7 @@
+[====================] 24/24 100%
+
+ react         16.11.0  →  16.13.1
+ react-dom     16.11.0  →  16.13.1
+ babel-loader   ^7.1.5  →   ^8.1.0
+
+Run ncu -u to upgrade package.json
